@@ -5,7 +5,7 @@ It is a multi-platform messaging service founded by Russian entrepreneur Pavel D
 
 Telegram's user base tends to increase whenever a privacy scandal hits one of its larger competitors.
 
-Getting started - 
+Getting started - https://medium.com/@Paramjeet_Singh/telegram-bot-with-esp8266-6d3d3278e483?sk=ecccd5f8be926ccba5b49b962abd7004
 
 Edit in code-
 1. Add your SSID and Password
