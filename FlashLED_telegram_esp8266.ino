@@ -52,7 +52,6 @@ void handleNewMessages(int numNewMessages) {
 
     if (text == "/start") {
       String welcome = "Welcome to Universal Arduino Telegram Bot library, " + from_name + ".\n";
-      welcome += "This is Flash Led Bot example.\n\n";
       welcome += "/ledon : to switch the Led ON\n";
       welcome += "/ledoff : to switch the Led OFF\n";
       welcome += "/status : Returns current status of LED\n";
