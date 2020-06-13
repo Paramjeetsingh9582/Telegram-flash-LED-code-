@@ -9,5 +9,5 @@ Getting started - https://medium.com/@Paramjeet_Singh/telegram-bot-with-esp8266-
 
 Edit in code-
 1. Add your SSID and Password
-2. Add your token generated from botfather 
+2. Add your token generated from botfather then
 upload code in ESP
